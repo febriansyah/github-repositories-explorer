@@ -10,6 +10,10 @@ A React application that allows users to search for GitHub users and explore the
 - Error handling for API requests
 - Loading states for better UX
 
+## Demo
+
+A live demo is available at [https://github-repositories-explorer-dkqe.vercel.app/](https://github-repositories-explorer-dkqe.vercel.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
